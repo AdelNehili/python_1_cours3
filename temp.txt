@@ -1,0 +1,11 @@
+En résumé:
+        -my_int : 9
+        -my_float : 3.5
+        Sachant que mon repas est:
+            -is_spicy : True
+            -is_sour : False
+            -is_sweet : True
+            -do_you_like_v1 : True
+            -do_you_like_v2 : 1
+    __________________________________________________
+(╯‵□′)╯︵┻━┻ : JE SAIS PAS!!
